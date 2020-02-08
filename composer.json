@@ -1,0 +1,10 @@
+{
+    "name": "claudineyqr/autocollect_address",
+    "description" : "Coletar automaticamente - Plugin para Roundcube",
+    "type": "roundcube-plugin",
+    "keywords": ["autocollect_address"],
+    "license": "",
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
